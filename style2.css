@@ -1,0 +1,53 @@
+#CV{
+    text-transform: capitalize;
+    line-height: 3cm;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Merienda';
+}
+
+*{
+    background-color: rgb(218, 173, 118);
+}
+#CV2{
+    text-transform: capitalize;
+    font-family: 'Rancho';
+    font-size: 20px;
+}
+#CV3{
+    text-transform: capitalize;
+    font-family: 'Rancho';
+    font-size: 20px;
+}
+#CV4{
+    text-transform: capitalize;
+    font-family: 'Rancho';
+    font-size: 20px;
+}
+#CV5{
+    text-transform: capitalize;
+    font-family: 'Rancho';
+    font-size: 20px;
+}
+/* #CV6{
+    text-transform: capitalize;
+    font-family: 'Rancho';
+    font-size: 20px;
+} */
+.hob{
+    text-transform: capitalize;
+    font-family: 'Rancho';
+    font-size: 20px;
+}
+#con{
+    
+    font-family: 'Rancho';
+    font-size: 20px;
+    
+}
+#con2{
+    text-transform: capitalize;
+    font-family: 'Rancho';
+    font-size: 20px;
+    margin-left: 100px;
+}
